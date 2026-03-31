@@ -1,19 +1,10 @@
 * {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-  }
-  
-  
-  h1 {
-    color: #993D79;
-  }
-  
-  
-  p, 
-  li {
-    font-size: 18px;
-  }
-  
-  
-  a {
-    text-decoration: none;
-  }
+  font-family: 'JetBrains Mono', monospace;
+  color: oklch(21% 0.034 264.665);
+}
+
+body {
+  max-width: 64em;
+  margin: auto;
+  padding: 32px 16px;
+}
