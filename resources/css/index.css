@@ -8,3 +8,10 @@ body {
   margin: auto;
   padding: 32px 16px;
 }
+
+
+.output {
+  display: block;
+  margin-left: 20px;
+}
+
